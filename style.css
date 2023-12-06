@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+    color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    margin: 10px;
+  }
+  
+  h1, h2, h3, p {
+    color: black;
+  }
+  
