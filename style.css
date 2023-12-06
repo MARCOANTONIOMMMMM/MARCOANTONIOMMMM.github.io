@@ -1,12 +1,7 @@
 body {
-    background-color: blue;
+    margin: 25px;
+    background-color: rgb(109, 109, 235);
     color: black;
     font-family: Verdana, sans-serif;
     font-size: 16px;
-    margin: 10px;
   }
-  
-  h1, h2, h3, p {
-    color: black;
-  }
-  
